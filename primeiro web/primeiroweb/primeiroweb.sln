@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "primeiroweb", "primeiroweb\primeiroweb.csproj", "{62C3ECF0-1175-4CEC-B432-E62AA9B2F31A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{FFCF780B-C854-4D05-945D-A63FC74E0314}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PWebTest", "PWebTest\PWebTest.csproj", "{639189B5-DDDF-47B6-A920-25866CAE4EC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62C3ECF0-1175-4CEC-B432-E62AA9B2F31A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62C3ECF0-1175-4CEC-B432-E62AA9B2F31A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62C3ECF0-1175-4CEC-B432-E62AA9B2F31A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62C3ECF0-1175-4CEC-B432-E62AA9B2F31A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFCF780B-C854-4D05-945D-A63FC74E0314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFCF780B-C854-4D05-945D-A63FC74E0314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFCF780B-C854-4D05-945D-A63FC74E0314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFCF780B-C854-4D05-945D-A63FC74E0314}.Release|Any CPU.Build.0 = Release|Any CPU
+		{639189B5-DDDF-47B6-A920-25866CAE4EC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{639189B5-DDDF-47B6-A920-25866CAE4EC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{639189B5-DDDF-47B6-A920-25866CAE4EC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{639189B5-DDDF-47B6-A920-25866CAE4EC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EACFA9E9-27D6-4CE6-8970-C35B8BABE539}
+	EndGlobalSection
+EndGlobal
